@@ -9,7 +9,7 @@
       "skillFolderHash": "1b8e3d267f0a277fd3d8d013567514eebf0bdaec",
       "pluginName": "browse",
       "installedAt": "2026-05-16T05:35:16.733Z",
-      "updatedAt": "2026-05-20T01:37:55.485Z"
+      "updatedAt": "2026-05-20T02:05:29.448Z"
     },
     "find-skills": {
       "source": "vercel-labs/skills",
@@ -27,7 +27,7 @@
       "skillPath": "skills/fetch/SKILL.md",
       "skillFolderHash": "197bbea298e95e00ff4c935b7d12ee73da74ab00",
       "installedAt": "2026-05-16T06:26:11.643Z",
-      "updatedAt": "2026-05-20T01:37:55.488Z"
+      "updatedAt": "2026-05-20T02:05:29.451Z"
     },
     "functions": {
       "source": "browserbase/skills",
@@ -37,7 +37,7 @@
       "skillFolderHash": "7cfca30f0d8ed73b41f60c8501e5f03eb2edd7ce",
       "pluginName": "functions",
       "installedAt": "2026-05-16T06:26:26.591Z",
-      "updatedAt": "2026-05-20T01:37:55.489Z"
+      "updatedAt": "2026-05-20T02:05:29.450Z"
     },
     "browserbase-cli": {
       "source": "browserbase/skills",
@@ -75,7 +75,7 @@
       "skillFolderHash": "da280382aca9b0be24f952567523779e46c3f954",
       "pluginName": "browser-trace",
       "installedAt": "2026-05-20T01:37:55.486Z",
-      "updatedAt": "2026-05-20T01:37:55.486Z"
+      "updatedAt": "2026-05-20T02:05:29.448Z"
     },
     "company-research": {
       "source": "browserbase/skills",
@@ -121,7 +121,7 @@
       "skillPath": "skills/search/SKILL.md",
       "skillFolderHash": "c131a34283c31dd9e396bfaaad97d9794d88989f",
       "installedAt": "2026-05-20T01:37:55.490Z",
-      "updatedAt": "2026-05-20T01:37:55.490Z"
+      "updatedAt": "2026-05-20T02:05:29.451Z"
     },
     "ui-test": {
       "source": "browserbase/skills",
@@ -130,7 +130,7 @@
       "skillPath": "skills/ui-test/SKILL.md",
       "skillFolderHash": "d7eeb6bb5823ef49eeb9cecd979c01f2d2709530",
       "installedAt": "2026-05-20T01:37:55.490Z",
-      "updatedAt": "2026-05-20T01:37:55.490Z"
+      "updatedAt": "2026-05-20T02:05:29.451Z"
     }
   },
   "dismissed": {
